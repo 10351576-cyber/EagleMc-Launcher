@@ -1,114 +1,170 @@
 [
   {
     "nombre": "ArchMC",
-    "ip": "wss://arch.mc"
+    "ip": "wss://arch.mc",
+    "version": "1.8.9",
+    "tipo": "Survival / Minijuegos"
   },
   {
     "nombre": "Voidsent MC",
-    "ip": "wss://mc.voidsent.net"
+    "ip": "wss://mc.voidsent.net",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "Pixel Craft",
-    "ip": "wss://pcsmp.net"
+    "ip": "wss://pcsmp.net",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "MercuryMC",
-    "ip": "wss://mercurymc.net"
+    "ip": "wss://mercurymc.net",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "VanillaMC",
-    "ip": "wss://vanillamc.org"
+    "ip": "wss://vanillamc.org",
+    "version": "1.12.2",
+    "tipo": "Survival"
   },
   {
     "nombre": "HeartSMP",
-    "ip": "wss://play.heartsmp.net"
+    "ip": "wss://play.heartsmp.net",
+    "version": "1.8.9",
+    "tipo": "SMP / Survival"
   },
   {
     "nombre": "TuffNET",
-    "ip": "wss://tuff.ws"
+    "ip": "wss://tuff.ws",
+    "version": "1.8.9",
+    "tipo": "Network / Minijuegos"
   },
   {
     "nombre": "Dumbshit Survival X",
-    "ip": "wss://mc.dssx.uk"
+    "ip": "wss://mc.dssx.uk",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "Default Survival",
-    "ip": "wss://default-survival.eagler.host"
+    "ip": "wss://default-survival.eagler.host",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "null's World",
-    "ip": "wss://mc.nullsworld.net"
+    "ip": "wss://mc.nullsworld.net",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "Zentic",
-    "ip": "wss://zentic.cc"
+    "ip": "wss://zentic.cc",
+    "version": "1.8.9",
+    "tipo": "Network"
   },
   {
     "nombre": "WebMC",
-    "ip": "wss://play.webmc.fun"
+    "ip": "wss://play.webmc.fun",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "Archyverse",
-    "ip": "wss://mc.archyverse.org"
+    "ip": "wss://mc.archyverse.org",
+    "version": "1.8.9",
+    "tipo": "Network"
   },
   {
     "nombre": "KrypticMC",
-    "ip": "wss://krypticmc.net"
+    "ip": "wss://krypticmc.net",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "CarrotCraft",
-    "ip": "wss://eagler.carrot-craft.org"
+    "ip": "wss://eagler.carrot-craft.org",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "Rice Network",
-    "ip": "wss://mc.ricenetwork.xyz"
+    "ip": "wss://mc.ricenetwork.xyz",
+    "version": "1.8.9",
+    "tipo": "Network"
   },
   {
     "nombre": "WanderWood SMP",
-    "ip": "wss://wanderwoodsmp.com"
+    "ip": "wss://wanderwoodsmp.com",
+    "version": "1.8.9",
+    "tipo": "SMP"
   },
   {
     "nombre": "Unreal SMP",
-    "ip": "wss://play.unrealsmp.org"
+    "ip": "wss://play.unrealsmp.org",
+    "version": "1.8.9",
+    "tipo": "SMP"
   },
   {
     "nombre": "Radiant Network",
-    "ip": "wss://eagler.radiantnet.club"
+    "ip": "wss://eagler.radiantnet.club",
+    "version": "1.8.9",
+    "tipo": "Network"
   },
   {
     "nombre": "Ethereal",
-    "ip": "wss://ethereal.mov"
+    "ip": "wss://ethereal.mov",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "Pizza SMP",
-    "ip": "wss://pizzasmp.qzz.io"
+    "ip": "wss://pizzasmp.qzz.io",
+    "version": "1.8.9",
+    "tipo": "SMP"
   },
   {
     "nombre": "Cereal Network",
-    "ip": "wss://play.cerealnet.work"
+    "ip": "wss://play.cerealnet.work",
+    "version": "1.8.9",
+    "tipo": "Network"
   },
   {
     "nombre": "Legend SMP",
-    "ip": "wss://legxndsmp.minecraft.pe"
+    "ip": "wss://legxndsmp.minecraft.pe",
+    "version": "1.8.9",
+    "tipo": "SMP"
   },
   {
     "nombre": "AsianF4rmer SMP",
-    "ip": "wss://asianf4rmer.minecraft.pe"
+    "ip": "wss://asianf4rmer.minecraft.pe",
+    "version": "1.8.9",
+    "tipo": "SMP"
   },
   {
     "nombre": "AmythestMC",
-    "ip": "wss://mc.amythest.lol"
+    "ip": "wss://mc.amythest.lol",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "Time Legacy",
-    "ip": "wss://mc.time-legacy.net"
+    "ip": "wss://mc.time-legacy.net",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "CraftClue",
-    "ip": "wss://play.craftclue.rocks"
+    "ip": "wss://play.craftclue.rocks",
+    "version": "1.8.9",
+    "tipo": "Survival"
   },
   {
     "nombre": "Asspixel",
-    "ip": "wss://mc.asspixel.net"
+    "ip": "wss://mc.asspixel.net",
+    "version": "1.8.9",
+    "tipo": "Network / Minijuegos"
   }
 ]
