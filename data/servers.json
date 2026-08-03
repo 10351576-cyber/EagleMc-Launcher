@@ -2,6 +2,22 @@
     {
         "nombre": "ArchMC",
         "ip": "wss://arch.mc"
-    }
+    },
+    {
+        "nombre": "Voidsent MC",
+        "ip": "wss://mc.voidsent.net"
+    },
+        {
+        "nombre": "Zentic",
+        "ip": "wss://zentic.cc"
+    },
+        {
+        "nombre": "TuffNET",
+        "ip": "wss://tuffest.org"
+    },
+    {
+        "nombre": "WebMC",
+        "ip": "wss://play.webmc.fun"
+    },
 
 ]
