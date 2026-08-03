@@ -1,23 +1,114 @@
 [
-    {
-        "nombre": "ArchMC",
-        "ip": "wss://arch.mc"
-    },
-    {
-        "nombre": "Voidsent MC",
-        "ip": "wss://mc.voidsent.net"
-    },
-        {
-        "nombre": "Zentic",
-        "ip": "wss://zentic.cc"
-    },
-        {
-        "nombre": "TuffNET",
-        "ip": "wss://tuffest.org"
-    },
-    {
-        "nombre": "WebMC",
-        "ip": "wss://play.webmc.fun"
-    }
-
+  {
+    "nombre": "ArchMC",
+    "ip": "wss://arch.mc"
+  },
+  {
+    "nombre": "Voidsent MC",
+    "ip": "wss://mc.voidsent.net"
+  },
+  {
+    "nombre": "Pixel Craft",
+    "ip": "wss://pcsmp.net"
+  },
+  {
+    "nombre": "MercuryMC",
+    "ip": "wss://mercurymc.net"
+  },
+  {
+    "nombre": "VanillaMC",
+    "ip": "wss://vanillamc.org"
+  },
+  {
+    "nombre": "HeartSMP",
+    "ip": "wss://play.heartsmp.net"
+  },
+  {
+    "nombre": "TuffNET",
+    "ip": "wss://tuff.ws"
+  },
+  {
+    "nombre": "Dumbshit Survival X",
+    "ip": "wss://mc.dssx.uk"
+  },
+  {
+    "nombre": "Default Survival",
+    "ip": "wss://default-survival.eagler.host"
+  },
+  {
+    "nombre": "null's World",
+    "ip": "wss://mc.nullsworld.net"
+  },
+  {
+    "nombre": "Zentic",
+    "ip": "wss://zentic.cc"
+  },
+  {
+    "nombre": "WebMC",
+    "ip": "wss://play.webmc.fun"
+  },
+  {
+    "nombre": "Archyverse",
+    "ip": "wss://mc.archyverse.org"
+  },
+  {
+    "nombre": "KrypticMC",
+    "ip": "wss://krypticmc.net"
+  },
+  {
+    "nombre": "CarrotCraft",
+    "ip": "wss://eagler.carrot-craft.org"
+  },
+  {
+    "nombre": "Rice Network",
+    "ip": "wss://mc.ricenetwork.xyz"
+  },
+  {
+    "nombre": "WanderWood SMP",
+    "ip": "wss://wanderwoodsmp.com"
+  },
+  {
+    "nombre": "Unreal SMP",
+    "ip": "wss://play.unrealsmp.org"
+  },
+  {
+    "nombre": "Radiant Network",
+    "ip": "wss://eagler.radiantnet.club"
+  },
+  {
+    "nombre": "Ethereal",
+    "ip": "wss://ethereal.mov"
+  },
+  {
+    "nombre": "Pizza SMP",
+    "ip": "wss://pizzasmp.qzz.io"
+  },
+  {
+    "nombre": "Cereal Network",
+    "ip": "wss://play.cerealnet.work"
+  },
+  {
+    "nombre": "Legend SMP",
+    "ip": "wss://legxndsmp.minecraft.pe"
+  },
+  {
+    "nombre": "AsianF4rmer SMP",
+    "ip": "wss://asianf4rmer.minecraft.pe"
+  },
+  {
+    "nombre": "AmythestMC",
+    "ip": "wss://mc.amythest.lol"
+  },
+  {
+    "nombre": "Time Legacy",
+    "ip": "wss://mc.time-legacy.net"
+  },
+  {
+    "nombre": "CraftClue",
+    "ip": "wss://play.craftclue.rocks"
+  },
+  {
+    "nombre": "Asspixel",
+    "ip": "wss://mc.asspixel.net"
+  }
 ]
