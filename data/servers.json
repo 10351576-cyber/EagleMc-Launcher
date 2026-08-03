@@ -9,7 +9,7 @@
     "nombre": "Voidsent MC",
     "ip": "wss://mc.voidsent.net",
     "version": "1.8.9",
-    "tipo": "Survival"
+    "tipo": "Survival / PvP"
   },
   {
     "nombre": "Pixel Craft",
@@ -63,19 +63,19 @@
     "nombre": "Zentic",
     "ip": "wss://zentic.cc",
     "version": "1.8.9",
-    "tipo": "Network"
+    "tipo": "PvP / Network"
   },
   {
     "nombre": "WebMC",
     "ip": "wss://play.webmc.fun",
     "version": "1.8.9",
-    "tipo": "Survival"
+    "tipo": "OneBlock / Survival"
   },
   {
     "nombre": "Archyverse",
     "ip": "wss://mc.archyverse.org",
     "version": "1.8.9",
-    "tipo": "Network"
+    "tipo": "Network / Survival"
   },
   {
     "nombre": "KrypticMC",
@@ -87,7 +87,7 @@
     "nombre": "CarrotCraft",
     "ip": "wss://eagler.carrot-craft.org",
     "version": "1.8.9",
-    "tipo": "Survival"
+    "tipo": "Network / Survival"
   },
   {
     "nombre": "Rice Network",
@@ -105,7 +105,7 @@
     "nombre": "Unreal SMP",
     "ip": "wss://play.unrealsmp.org",
     "version": "1.8.9",
-    "tipo": "SMP"
+    "tipo": "SMP / Lifesteal"
   },
   {
     "nombre": "Radiant Network",
@@ -159,12 +159,108 @@
     "nombre": "CraftClue",
     "ip": "wss://play.craftclue.rocks",
     "version": "1.8.9",
-    "tipo": "Survival"
+    "tipo": "Survival / Anarchy"
   },
   {
     "nombre": "Asspixel",
     "ip": "wss://mc.asspixel.net",
     "version": "1.8.9",
     "tipo": "Network / Minijuegos"
+  },
+  {
+    "nombre": "Aeon Network",
+    "ip": "wss://aeon-network.net",
+    "version": "1.8.9",
+    "tipo": "Survival / Creative"
+  },
+  {
+    "nombre": "Shadow Network",
+    "ip": "wss://play.shadownetwork.shop",
+    "version": "1.8.9",
+    "tipo": "Lifesteal / Minijuegos"
+  },
+  {
+    "nombre": "Beaglecraft",
+    "ip": "wss://join.beaglecraft.online",
+    "version": "1.8.9",
+    "tipo": "Survival / PvP / Minijuegos"
+  },
+  {
+    "nombre": "Hyper Network",
+    "ip": "wss://eag.hyper-network.net",
+    "version": "1.8.9",
+    "tipo": "Network / Minijuegos"
+  },
+  {
+    "nombre": "Encrypted SMP",
+    "ip": "wss://eagler.melonnetwork.xyz",
+    "version": "1.8.9",
+    "tipo": "SMP"
+  },
+  {
+    "nombre": "BladeMC",
+    "ip": "wss://blademc.us",
+    "version": "1.8.9",
+    "tipo": "PvP / Survival"
+  },
+  {
+    "nombre": "GG SMP",
+    "ip": "wss://ggsmp.net",
+    "version": "1.8.9",
+    "tipo": "Economy / Survival"
+  },
+  {
+    "nombre": "Cburger Network",
+    "ip": "wss://play.cburger.net",
+    "version": "1.8.9",
+    "tipo": "OneBlock / Survival"
+  },
+  {
+    "nombre": "Kryplex Network",
+    "ip": "wss://kryplex-network.eagler.host",
+    "version": "1.8.9",
+    "tipo": "PvP / Minijuegos"
+  },
+  {
+    "nombre": "Lamp Network",
+    "ip": "wss://mc.lamplifesteal.xyz",
+    "version": "1.8.9",
+    "tipo": "Lifesteal / Survival"
+  },
+  {
+    "nombre": "StrengthNetwork",
+    "ip": "wss://strengthnetwork.org",
+    "version": "1.8.9",
+    "tipo": "Survival / PvP"
+  },
+  {
+    "nombre": "EaglesMP",
+    "ip": "wss://eaglesmp.org",
+    "version": "1.8.9",
+    "tipo": "SMP"
+  },
+  {
+    "nombre": "Xena",
+    "ip": "wss://xena.wtf",
+    "version": "1.8.9",
+    "tipo": "SMP"
+  },
+  {
+    "nombre": "Stable SMP",
+    "ip": "wss://spmc.eagler.host",
+    "version": "1.12.2",
+    "tipo": "Survival"
+  },
+  {
+    "nombre": "EcoMC",
+    "ip": "wss://ecomc.eagler.host",
+    "version": "1.12.2",
+    "tipo": "Economy / Survival"
+  },
+  {
+    "nombre": "2b2t Eagler",
+    "ip": "wss://eagler.2p1t.com",
+    "version": "1.12.2",
+    "tipo": "Anarchy"
   }
 ]
