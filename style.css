@@ -1,0 +1,404 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    font-family:"Segoe UI",sans-serif;
+    background:linear-gradient(135deg,#080d18,#17244b);
+    color:white;
+}
+
+
+.app{
+    display:grid;
+    grid-template-columns:190px 1fr;
+    min-height:100vh;
+}
+
+
+
+/* SIDEBAR */
+
+.sidebar{
+
+    padding:18px;
+    background:rgba(0,0,0,.45);
+    backdrop-filter:blur(18px);
+
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+
+}
+
+
+.brand{
+    height:60px;
+    border-radius:18px;
+    background:#2b5cff;
+    display:grid;
+    place-items:center;
+    font-size:32px;
+    font-weight:bold;
+}
+
+
+.sidebar button{
+    height:45px;
+    border:0;
+    border-radius:12px;
+    background:#ffffff10;
+    color:white;
+    cursor:pointer;
+    transition:.2s;
+}
+
+
+.sidebar button:hover{
+    background:#ffffff25;
+}
+
+
+
+/* CONTENIDO */
+
+.main{
+    padding:25px;
+}
+
+
+
+/* HERO */
+
+.hero{
+
+    border-radius:25px;
+    padding:35px;
+    min-height:300px;
+
+    background:rgba(0,0,0,.35);
+    backdrop-filter:blur(18px);
+
+    box-shadow:0 20px 60px #0008;
+
+}
+
+
+.hero h1{
+    margin:0;
+    font-size:32px;
+}
+
+
+.hero p{
+    opacity:.9;
+}
+
+
+
+/* VERSION */
+
+.version-area{
+    display:flex;
+    align-items:center;
+    gap:18px;
+    margin-top:30px;
+}
+
+
+#version{
+    height:50px;
+    width:155px;
+    padding:0 15px;
+    border-radius:12px;
+    border:1px solid #ffffff30;
+    background:#ffffff18;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+}
+
+
+#version option{
+    background:#18233d;
+    color:white;
+}
+
+
+
+/* JUGAR */
+
+#play{
+    height:50px;
+    padding:0 35px;
+    border:0;
+    border-radius:14px;
+    background:#20c963;
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+
+#play:hover{
+    transform:scale(1.05);
+}
+
+
+
+/* TARJETAS INICIO */
+
+.grid{
+
+    margin-top:20px;
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:20px;
+
+}
+
+
+.card{
+
+    height:130px;
+
+    padding:18px;
+
+    border-radius:18px;
+
+    background:rgba(0,0,0,.30);
+
+    border:1px solid rgba(255,255,255,.15);
+
+    backdrop-filter:blur(18px);
+
+}
+
+
+.card h2{
+
+    margin-top:0;
+
+}
+
+
+
+/* SERVIDORES */
+
+.servidor{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+
+.servidor-info{
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+
+
+.servidor button{
+
+    margin-top:0;
+
+}
+
+
+
+/* BOTONES DE TARJETAS */
+
+.card button{
+
+    height:40px;
+
+    padding:0 25px;
+
+    border:0;
+
+    border-radius:12px;
+
+    background:#2b5cff;
+
+    color:white;
+
+    font-size:15px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    transition:.2s;
+
+}
+
+
+.card button:hover{
+
+    background:#4774ff;
+
+    transform:scale(1.05);
+
+}
+
+
+
+/* AJUSTES */
+
+.ajuste-item{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    gap:20px;
+
+}
+
+
+
+.ajuste-item select{
+
+    margin-left:auto;
+
+}
+
+
+
+.imagen-ajuste{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    gap:20px;
+
+}
+
+
+
+.card select{
+
+    height:45px;
+
+    width:220px;
+
+    padding:0 15px;
+
+    border-radius:12px;
+
+    border:1px solid #ffffff30;
+
+    background:#ffffff18;
+
+    color:white;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+}
+
+
+.card select option{
+
+    background:#18233d;
+
+    color:white;
+
+}
+
+
+
+#imagen{
+
+    margin-left:auto;
+
+}
+
+
+
+/* GUARDAR */
+
+#guardar-ajustes{
+
+    display:block;
+
+    margin-left:auto;
+
+    margin-top:25px;
+
+    height:45px;
+
+    padding:0 35px;
+
+    border:0;
+
+    border-radius:12px;
+
+    background:#20c963;
+
+    color:white;
+
+    font-size:16px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    transition:.2s;
+
+}
+
+
+
+#guardar-ajustes:hover{
+
+    background:#28e878;
+
+    transform:scale(1.05);
+
+}
+/* AJUSTES - poner controles a la derecha */
+
+.ajuste-item,
+.imagen-ajuste{
+
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:20px;
+
+}
+
+
+.ajuste-item select,
+.imagen-ajuste input{
+
+    margin-left:auto;
+
+}
+.hero,
+.card,
+.sidebar{
+
+    text-shadow:0 2px 6px rgba(0,0,0,.8);
+
+}
