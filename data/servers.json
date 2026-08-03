@@ -4,6 +4,23 @@
         "ip": "wss://arch.mc/"
     },
     {
-        "nombre": "OtroSeiiiiiiiiiiiiiirvidor",
+        "nombre": "OtroServidor",
+        "ip": "wss://otro.com/"
+    },
+    {
+        "nombre": "ArchMC",
+        "ip": "wss://arch.mc/"
+    },
+    {
+        "nombre": "OtroServidor",
+        "ip": "wss://otro.com/"
+    },
+    {
+        "nombre": "ArchMC",
+        "ip": "wss://arch.mc/"
+    },
+    {
+        "nombre": "OtroServidor",
         "ip": "wss://otro.com/"
     }
+]
