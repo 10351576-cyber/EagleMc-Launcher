@@ -1,6 +1,10 @@
 [
     {
-        "titulo": "EagleMC Launcher iniciado",
+        "titulo": "EagleMc Launcher iniciado",
         "texto": "El launcher está en desarrollo."
+    },
+    {
+        "titulo": "Servidores online",
+        "texto": "Ahora los servidores se cargan desde GitHub."
     }
 ]
