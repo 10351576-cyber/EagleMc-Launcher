@@ -1,12 +1,10 @@
 [
     {
-        "nombre": "ccocoocoochMC",
+        "nombre": "ArchMC",
         "ip": "wss://arch.mc/"
-    }
-]
-[
+    },
     {
-        "nombre": "ARCHMCC",
-        "ip": "wss://arch.mc/"
+        "nombre": "OtroServidor",
+        "ip": "wss://otro.com/"
     }
 ]
