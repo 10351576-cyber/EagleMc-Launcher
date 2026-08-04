@@ -1,17 +1,21 @@
 {
     "launcher": "EagleMc Launcher",
     "version": "0.0.2",
-    "estado": "Actualizado",
     "fecha": "2026-08-03",
     "desarrollador": "Nelson",
-    "motor": "HTML, CSS y JavaScript",
+    "motor": "HTML/CSS/JS",
+
     "eaglercraft": [
         "1.8.9",
         "1.12.2"
     ],
+
     "servidores": 45,
+
+    "actualizar": "https://github.com/10351576-cyber/EagleMc-Launcher/releases",
+
     "ultima_actualizacion": {
         "titulo": "Versión 0.0.2",
-        "descripcion": "Se añadió la paleta de colores, se corrigieron los favoritos, se mejoró el buscador de servidores, la pantalla de carga ahora utiliza el mismo fondo del launcher y el código fue reorganizado."
+        "descripcion": "..."
     }
 }
