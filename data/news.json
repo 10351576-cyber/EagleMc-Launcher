@@ -1,18 +1,18 @@
 [
     {
         "titulo": "EagleMc Launcher iniciado",
-        "texto": "El launcher está en desarrollo."
+        "texto": "El launcher comienza su desarrollo. Nuevas funciones serán añadidas próximamente."
     },
     {
-        "titulo": "actualizacion 0.0.1.1 disponible",
-        "texto": "actualizacion nueva de EAGLEMC LAUNCHER, añade un buscador en la lista de servidores y también un marcador de favoritos"
+        "titulo": "💻 Actualización 0.0.2 disponible",
+        "texto": "Nuevas mejoras añadidas: paleta de colores personalizada para fondos, correcciones de errores en favoritos de servidores, buscador de servidores mejorado, pantalla de carga sincronizada con el fondo actual y mejor organización del código HTML, CSS y JavaScript."
     },
     {
-        "titulo": "actualizacion disponible",
-        "texto": "actualizacion nueva de EAGLEMC LAUNCHER, lo que añade es 1-version que se puede jugar 2-modo o tipo de servidor"
+        "titulo": "🔔 Actualización 0.0.1.1 disponible",
+        "texto": "Se añadió un buscador para la lista de servidores y un sistema de favoritos para guardar servidores importantes."
     },
     {
-        "titulo": "Servidores",
-        "texto": "de 4 servidores a 45 servidores, no estan verificados, pero algo es algo, son 41 servidores más "
+        "titulo": "🧪 Servidores",
+        "texto": "La lista de servidores aumentó de 4 a 45 servidores. Aunque todavía no están verificados, ahora hay muchas más opciones disponibles."
     }
 ]
