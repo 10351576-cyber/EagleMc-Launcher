@@ -1,6 +1,6 @@
 {
     "launcher": "EagleMc Launcher",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "desarrollador": "Chatgpt, Nelson",
     "motor": "HTML/CSS/JS",
 
@@ -14,7 +14,7 @@
     "actualizar": "https://github.com/10351576-cyber/EagleMc-Launcher/releases",
 
     "ultima_actualizacion": {
-        "titulo": "Versión 0.0.2",
+        "titulo": "Versión 0.0.3",
         "descripcion": "..."
     }
 }
