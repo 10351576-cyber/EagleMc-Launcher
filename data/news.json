@@ -1,18 +1,22 @@
 [
     {
-        "titulo": "EagleMc Launcher iniciado",
-        "texto": "El launcher comienza su desarrollo. Nuevas funciones serán añadidas próximamente."
+        "titulo": "EagleMc Launcher 0.0.3 - Una nueva etapa",
+        "texto": "¡Nueva actualización disponible! EagleMc Launcher 0.0.3 llega con grandes mejoras para ofrecer una experiencia más completa y personalizable. Esta versión añade nuevos ajustes visuales, personalización de colores, transparencia y desenfoque, mejoras en fondos personalizados, una nueva pantalla de inicio para Eaglercraft, guardado de la última versión utilizada, nuevas animaciones y mejoras de estabilidad. También se incorpora un sistema de información de versión del launcher para comprobar actualizaciones y mostrar detalles importantes del proyecto."
+    },
+    {
+        "titulo": "🚀 EagleMc Launcher iniciado",
+        "texto": "El launcher comienza su desarrollo. Nuevas funciones serán añadidas próximamente mientras el proyecto sigue creciendo."
     },
     {
         "titulo": "💻 Actualización 0.0.2 disponible",
-        "texto": "Nuevas mejoras añadidas: paleta de colores personalizada para fondos, correcciones de errores en favoritos de servidores, buscador de servidores mejorado, pantalla de carga sincronizada con el fondo actual y mejor organización del código HTML, CSS y JavaScript."
+        "texto": "Se añadieron nuevas mejoras: paleta de colores personalizada para fondos, correcciones en el sistema de favoritos de servidores, buscador mejorado, pantalla de carga sincronizada con el fondo actual y una mejor organización del código HTML, CSS y JavaScript."
     },
     {
         "titulo": "🔔 Actualización 0.0.1.5 disponible",
         "texto": "Se añadió un buscador para la lista de servidores y un sistema de favoritos para guardar servidores importantes."
     },
     {
-        "titulo": "🧪 Servidores",
-        "texto": "La lista de servidores aumentó de 4 a 45 servidores. Aunque todavía no están verificados, ahora hay muchas más opciones disponibles."
+        "titulo": "🌐 Servidores ampliados",
+        "texto": "La lista de servidores aumentó de 4 a 45 opciones disponibles. Aunque todavía no cuentan con verificación oficial, ahora los usuarios tienen muchas más alternativas para jugar."
     }
 ]
